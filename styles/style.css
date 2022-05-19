@@ -282,6 +282,11 @@ body {
     width: 100px;
     left: 48%;
   }
+
+  .exp-content > div:first-of-type {
+    height: auto;
+    padding: 20px 0;
+  }
 }
 
 .exp-content > div {
