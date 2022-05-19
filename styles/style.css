@@ -278,6 +278,10 @@ body {
 }
 
 @media screen and (max-width: 414px) {
+  .exp-content {
+    margin-top: -50px;
+  }
+
   .exp-content h3::before {
     width: 100px;
     left: 48%;
